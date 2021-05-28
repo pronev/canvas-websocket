@@ -1,7 +1,7 @@
 # canvas-websocket
 Realtime canvas drawing over websocket example.
+You can paint together on the same canvas. If the room id exists, you will be redirected to that room, otherwise a new room will be created.
 
 See demo: https://getid.site/canvas/index.html
 
-
-If room id exist you will redirected to this room, otherwice new room will be created.
+Test server on Heroku: wss://node-painting.herokuapp.com/
